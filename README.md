@@ -70,3 +70,10 @@ url=localhost:5432/wego
 username=postgres
 
 password=postgres
+
+# Testing
+I believe that testing is a very important phase of software development
+
+And unit test/integration test is also important to ensure the later changes not to break the old code flow, if I had time, I would choose JUnit4, along with Mockito to do the unit test.
+
+We can discuss about Testing if we have time later on.
